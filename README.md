@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OKrawi
+- 👀 I’m interested in creating mobile and web applications using React Native and NodeJS.
+- 🌱 I’m currently experminting with React Native.
+- 📫 Reach me on my email: Krawi.ossama@gmail.com 
